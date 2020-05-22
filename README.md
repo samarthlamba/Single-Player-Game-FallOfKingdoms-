@@ -27,7 +27,7 @@ Here's a sample walkthrough of the game running. As can be seen the player (blue
 The castles on either end have their remaining hitpoints above them and so does the lead troop from either side. The user can also see how many of each type of troop both sides has on the field as to better be able to strategize. 
 
 ## Challenges
-The main challenge was keeping track of everything and allowing the player to interact with different parts of the game. 
+The main challenge was keeping track of everything and allowing the player to interact with different parts of the game.In addition figuring out how to use the graphics files to create store and the movements were difficult. 
 
 ## Credit
 - The graphics file was not written by me, though it was editted to suit the needs of the game
