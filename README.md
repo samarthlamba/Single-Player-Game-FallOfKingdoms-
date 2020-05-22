@@ -1,4 +1,4 @@
-# Single-Player-Game-FallOfKingdoms-
+# Arcade-Style-Game-FallOfKingdoms-
 A **Siingle Player Arcade Style Game** that involves fighting the enemy, killing the troops, and breaking the opponents castle. There are 3 types of soldiers with different health and different range for attack 
  as well as different attack power. 
 ## Getting Started
