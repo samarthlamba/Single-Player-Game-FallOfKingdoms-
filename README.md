@@ -21,6 +21,7 @@ In addition to this, the player earns money for damaging the computer's castle o
 
 ## Video Walkthrough
 Here's a sample walkthrough of the game running. As can be seen the player (blue) starts out with 500 coins and has to choose between different options to try and beat the computer. The computer uses the player's decisions, as well as preset moves to determine the next move.
+
 ![](Video_game.gif)
 
 The castles on either end have their remaining hitpoints above them and so does the lead troop from either side. The user can also see how many of each type of troop both sides has on the field as to better be able to strategize. 
