@@ -30,4 +30,4 @@ The castles on either end have their remaining hitpoints above them and so does 
 The main challenge was keeping track of everything and allowing the player to interact with different parts of the game.In addition figuring out how to use the graphics files to create store and the movements were difficult. 
 
 ## Credit
-- The graphics file was not written by me, though it was editted to suit the needs of the game
+- The graphics file was not written by me, though it was edited to suit the needs of the game
